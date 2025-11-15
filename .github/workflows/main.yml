@@ -1,4 +1,4 @@
-name: RDP
+name: levi rdp
 on:
   workflow_dispatch:
 jobs:
